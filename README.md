@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m **Vlad**!
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning React
 - 📫 How to reach me vketrys@gmail.com
 
 <!---
