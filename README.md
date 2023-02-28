@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m **Vlad**!
 - 👀 I’m Junior Frontend Developer
-- 🌱 Stack: JavaScript, TypeScript, React, CSS3, HTML5, LESS/SASS, node.js a little bit :)
+- 🌱 Stack: JavaScript, TypeScript, React, Redux, axios, Next.js, CSS3, HTML5, LESS/SASS, node.js, Express.js, Jest, Firebase :)
 - 📫 vketrys@gmail.com
 
 <!---
